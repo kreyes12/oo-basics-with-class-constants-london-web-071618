@@ -20,5 +20,3 @@ class Shoe
   end
 
 end
-
-puts 
